@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="Button.White" parent="ThemeOverlay.AppCompat">-->
+<!--        <item name="colorAccent">@color</item>-->
+<!--    </style>-->
+<style name="CustomDatePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+    <item name="android:colorControlActivated">@color/MyGreen</item>
+    <item name="colorAccent">@color/MyGreen</item>
+</style>
+    <color name="MyGreen">
+        #5A9855
+    </color>
+</resources>
