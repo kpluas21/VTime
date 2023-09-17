@@ -6,4 +6,5 @@
     <string name="calculate">Calculate</string>
     <string name="select_a_date_and_the_number_of_days_you_wish_to_calculate">Select a date and the number of days you wish to calculate</string>
     <string name="enter_the_number_of_days">Enter the number of days</string>
+    <string name="exit">Exit</string>
 </resources>
