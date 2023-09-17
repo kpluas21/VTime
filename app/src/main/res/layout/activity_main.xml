@@ -28,7 +28,8 @@
             android:layout_height="wrap_content"
             android:hint="@string/enter_the_number_of_days"
             android:inputType="number"
-            android:autofillHints="numberOfDays" />
+            android:autofillHints="numberOfDays"
+            android:imeOptions="actionDone" />
         <Button
             android:id="@+id/submit_button"
             android:layout_width="match_parent"
